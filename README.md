@@ -8,7 +8,7 @@ Soy un **Tecnico en Desarrollo web y App digitales** con experiencia en la creac
 - 🌱 En constante aprendizaje sobre **JavaScript, React y Node.js**.
 - 👯 Abierto a colaborar en proyectos que involucren **desarrollo web, tecnologías de backend y frontend**.
 - 💬 Pregúntame sobre **desarrollo web, bases de datos, y optimización de rendimiento**.
-- 📫 Puedes contactarme a través de [**mi correo electrónico**](edificarvcp@gmail.com) o seguirme en [**LinkedIn**](https://www.linkedin.com/in/sebaolima).
+- 📫 Puedes contactarme a través de [**mi correo electrónico**](edificarvcp@gmail.com) o seguirme en [**LinkedIn**](https://www.linkedin.com/in/felix-sebasti%C3%A1n-olima-quinteros-43b51b230/).
 
 ## 📈 Mis estadísticas
 
