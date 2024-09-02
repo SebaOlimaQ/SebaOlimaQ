@@ -23,9 +23,9 @@ Soy un **Tecnico en Desarrollo web y App digitales** con experiencia en la creac
 
 ## 📂 Proyectos destacados
 
-- **[FastFood API](https://github.com/SebaOlimaQ/fastfood-api):** Una API RESTful construida con Node.js y Express para gestionar un sistema de pedidos de comida rápida.
-- **[E-Commerce Platform](https://github.com/SebaOlimaQ/e-commerce-platform):** Plataforma de comercio electrónico utilizando React para el frontend y Django para el backend.
-- **[Weather App](https://github.com/SebaOlimaQ/weather-app):** Aplicación web para obtener el pronóstico del tiempo utilizando la API de OpenWeatherMap.
+- **[Salus + Web](https://github.com/TEAM-SALUS/SALUS-web):** Salus Web es una aplicación web diseñada para facilitar la gestión de citas médicas y la solicitud de historiales clínicos personales. Los usuarios pueden programar turnos médicos de manera eficiente y acceder a su información médica de forma segura. La plataforma permite a los pacientes tener control sobre su atención médica, ofreciendo funcionalidades que simplifican la interacción con los proveedores de salud y garantizan un acceso fácil y rápido a los servicios médicos necesarios.
+- **[Salus + App](https://github.com/TEAM-SALUS/SALUS-mobile):** Salus+ en la versión móvil de la aplicación, diseñada para proporcionar acceso conveniente y rápido a servicios de salud desde dispositivos móviles. Los usuarios pueden programar citas médicas, solicitar y visualizar sus historiales clínicos, y gestionar su atención médica directamente desde la app. La interfaz intuitiva de Salus+ facilita la navegación y el uso, permitiendo a los pacientes acceder a sus datos de salud y coordinar sus citas de manera eficiente, todo mientras están en movimiento.
+- **[MatchMusicTinder](https://github.com/MatchMusicTinder/AppMMT):** Match Music Tinder es una red social móvil diseñada exclusivamente para aficionados, amateurs y profesionales del mundo de la música. La aplicación permite a los usuarios conectar y compartir experiencias musicales, comprar y vender instrumentos, y compartir archivos multimedia como videos y audios. Con una comunidad enfocada en la música, los usuarios pueden explorar y colaborar con otros músicos, crear conexiones valiosas en la industria, y descubrir nuevas oportunidades para el desarrollo de su carrera musical o afición..
 
 ## 👨‍💻 Experiencia
 
